@@ -9,7 +9,7 @@ This repository contains my academic certificates, language qualifications, trai
 ### [IELTS Certificate](./2022_IELTS.jpg)
 English proficiency certification taken after graduating from high school.
 
-### [UCSI University (Malaysia) - Advanced English Program](./2022_UCSI%20University(Malaysia).jpg)
+### [UCSI University (Malaysia) - Advanced English Program](./2022_UCSI%20University(Malaysia).pdf)
 Certificate of participation in an advanced English program at UCSI University, Kuala Lumpur, Malaysia.
 
 ---
